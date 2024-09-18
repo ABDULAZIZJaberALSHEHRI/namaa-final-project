@@ -62,17 +62,17 @@ public class CenterControllerTest {
         user = new User(3, "horseFirst", "FirstHorse@gmail.com",
                 "Asdf12345", "0552636692", "First horse", "CENTER"
                 , false, null, null, null
-                , null, center1, null);
+                , null, center1,null, null);
 
         user1 = new User(4, "EnglishAcademy", "EnglishAcademy@gmail.com",
                 "Asdf12345", "0554666691", "English Academy", "CENTER"
                 , false, null, null, null
-                , null, center2, null);
+                , null, center2,null ,null);
 
         user2 = new User(5, "FootballAcademy", "FootballAcademy@gmail.com",
                 "Asdf12345", "0554783691", "Football Academy", "CENTER"
-                , false, null, null, null
-                , parent, null, null);
+                , false, null, null,null, parent
+                , null, null, null);
 
         center1 = new Center(3, "jeddah", "horse Activity center able to learn your child about the horses world"
                 , "29384756", Center.Status.IN_PROGRESS, "Sport", 0

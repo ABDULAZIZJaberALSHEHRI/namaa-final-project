@@ -57,17 +57,17 @@ public class CenterServiceTest {
         user = new User(3, "horseFirst", "FirstHorse@gmail.com",
                 "Asdf12345", "0552636692", "First horse", "CENTER"
                 , false, null, null, null
-                , null, null, null);
+                , null, null,null, null);
 
         user1 = new User(4, "EnglishAcademy", "EnglishAcademy@gmail.com",
                 "Asdf12345", "0554666691", "English Academy", "CENTER"
                 , false, null, null, null
-                , null, center2, null);
+                , null, center2,null, null);
 
         user2 = new User(5, "FootballAcademy", "FootballAcademy@gmail.com",
                 "Asdf12345", "0554783691", "Football Academy", "CENTER"
                 , false, null, null, null
-                , null, center3, null);
+                , null, center3,null, null);
 
         center1 = new Center(3, "jeddah", "horse Activity center able to learn your child about the horses world"
                 , "29384756", Center.Status.IN_PROGRESS, "Sport", 0
@@ -89,7 +89,7 @@ public class CenterServiceTest {
         admin = new User(1, "Admin--", "Admin@gmail.com",
                 "Asdf12345", "0500000000", "Admin", "ADMIN"
                 , false, null, null, null
-                , null, null, null);
+                , null, null,null, null);
 
         notification = new Notification(1, Notification.NotificationType.ADMIN_TO_CENTER, "Your center registration has been approved",
                 true, null, admin, admin, user2);

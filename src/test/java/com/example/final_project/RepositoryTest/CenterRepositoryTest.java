@@ -39,12 +39,12 @@ public class CenterRepositoryTest {
         user=new User(null,"horseHouse","horseHouse@gmail.com",
                 "12345Asf","0564735245","horse house","CENTER"
                 ,false,null,null,null
-                ,null,center,null);
+                ,null,center,null,null);
 
         user2=new User(null,"EnglishAcademy","EnglishAcademy@gmail.com",
                 "Asdf12345","0554666691","English Academy","CENTER"
                 ,false,null,null,null
-                ,null,center2,null);
+                ,null,center2,null,null);
 
         center1 = new Center(null,"jeddah","horse Activity center able to learn your child about the horses world"
                 ,"29384756", Center.Status.IN_PROGRESS,"Sport",0

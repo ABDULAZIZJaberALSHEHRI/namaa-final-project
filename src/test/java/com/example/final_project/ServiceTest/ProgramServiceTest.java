@@ -51,13 +51,13 @@ public class ProgramServiceTest {
         user=new User(1,"horseHouse","horseHouse@gmail.com",
                 "12345Asf","0564735245","horse house","CENTER"
                 ,false,null,null,null
-                ,null,center,null);
+                ,null,center,null,null);
 
 
         user2=new User(null,"EnglishAcademy","EnglishAcademy@gmail.com",
                 "Asdf12345","0554666691","English Academy","CENTER"
                 ,false,null,null,null
-                ,null,center,null);
+                ,null,center,null,null);
 
 
         center=new Center(1,"Riyadh",
