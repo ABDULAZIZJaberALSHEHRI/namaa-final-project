@@ -41,7 +41,8 @@ Abdulaziz Jaber Alshehri
 - My Endpoints and Models:
 
 - Models: 
-    Center | Program | Advertisement | Certificate
+
+  Center | Program | Advertisement | Certificate
 
 
 - Endpoints: 
