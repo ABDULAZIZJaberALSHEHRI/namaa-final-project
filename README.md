@@ -11,15 +11,22 @@ Abdulaziz Jaber Alshehri
 (Namaa) in Arabic means increase, and includes continuous increase like the growth of a tree. This is the goal of the project. Growth is concerned with young students until they grow up through learning, experience and challenges. This system solves the problem of the lack of resources for finding programs to target the child’s required skill. It brings together all activity centers from everywhere and all skills: sports, art, Olympics, education and more. It allows the parents to register their children, track their performance and receive certificates.
 
 
+=============================================================================
+
 
 - namaa UseCase diagram:
 
 ![namaa useCase](https://github.com/user-attachments/assets/954193f9-cc6e-47b9-a3f5-bb120ce6f689)
 
 
+=============================================================================
+
 
 -namma Class diagram:
 [Namaa class diagram.pdf](https://github.com/user-attachments/files/17036485/Namaa.class.diagram.pdf)
+
+
+=============================================================================
 
 
 - PostMan documnts Url:
@@ -27,6 +34,7 @@ Abdulaziz Jaber Alshehri
 - Figma Url: https://www.figma.com/design/NepUkGbwTIp0ClKUYY0evQ/Untitled?node-id=43-795&t=sr8VAQWjZwXIt156-1
 
 - Presentation Url:
+
 
 =============================================================================
 
