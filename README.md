@@ -24,11 +24,11 @@ Abdulaziz Jaber Alshehri
 
 - PostMan documnts Url:
 
-- Figma Url:
+- Figma Url: https://www.figma.com/design/NepUkGbwTIp0ClKUYY0evQ/Untitled?node-id=43-795&t=sr8VAQWjZwXIt156-1
 
 - Presentation Url:
 
-=============================================================================================================================
+=====================================================================================
 
 - My Endpoints and Models:
 
