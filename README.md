@@ -40,11 +40,11 @@ Abdulaziz Jaber Alshehri
 
 - My Endpoints and Models:
 
-.Models:
+- Models:
 Center | Program | Advertisement | Certificate
 
 
-.Endpoints: 
+- Endpoints: 
 
 CenterController:
 - getAllCenters(@AuthenticationPrincipal User user);
